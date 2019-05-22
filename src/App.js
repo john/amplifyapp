@@ -9,8 +9,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
-        <hr>
-        This page was edited and pushed to Github, which triggered an automatic redeploy.
+        <hr/>
+          This page was edited and pushed to Github, which triggered an automatic redeploy.
         </p>
         <a
           className="App-link"
