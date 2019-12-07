@@ -7,7 +7,7 @@ In this section you will create a storage bucket and associated folders necessar
 1. Log in to the AWS console and set your region to N. Virginia.
 
     <kbd>
-    <img src="images/image1-1.png" alt="Screenshot of console front page" style="width: 90%; border: 9px solid lightgray; margin: 15px 0 30px 0;"/>
+    <img src="images/image1-1.png" alt="Screenshot of console front page" style="width: 90%; border: 9px solid lightgray; margin: 15px 0 90px 0;"/>
     </kbd>
 
 
