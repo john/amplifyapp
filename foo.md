@@ -1,4 +1,4 @@
-**Section 1**
+### Section 1
 
 # Create an S3 bucket and subdirectories
 
