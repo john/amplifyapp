@@ -8,8 +8,9 @@ In this section you will create a storage bucket and associated folders necessar
 
     <kbd>
     <img src="images/image1-1.png" alt="Screenshot of console front page" style="width: 90%; border: 9px solid lightgray; margin: 15px 0 90px 0;"/>
-    </kbd>
     <br>
+    </kbd>
+    
 
 1. In the "Find Services" field search for S3 and navigate to the S3 dashboard, then click on "Create bucket". All S3 buckets must have a globally unique name and must comply with DNS naming conventions—generally you should use lowercase letters and no underscores ([more information](https://docs.aws.amazon.com/AmazonS3/latest/dev/BucketRestrictions.html)). Select the region N. Virginia, enter a unique bucket name, and click "Next".
 
