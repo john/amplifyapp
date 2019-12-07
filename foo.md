@@ -14,9 +14,8 @@ queries you’ll create in the next section. We’ll delve more deeply into what
 
     <kbd>
     <img src="images/image1-1.png" alt="Screenshot of console front page" style="width: 90%; border: 9px solid lightgray; margin: 15px 0 90px 0;"/>
-    <br>
     </kbd>
-    
+    <br/><br/>
 
 
 
