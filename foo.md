@@ -23,14 +23,17 @@ queries you’ll create in the next section. We’ll delve more deeply into what
 1. In the "Find Services" field search for S3 and navigate to the S3 dashboard, then click on "Create bucket". All S3 buckets must have a globally unique name and must comply with DNS naming conventions—generally you should use lowercase letters and no underscores ([more information](https://docs.aws.amazon.com/AmazonS3/latest/dev/BucketRestrictions.html)). Select the region N. Virginia, enter a unique bucket name, and click "Next".
 
   <img src="images/image1-2.png" alt="Screenshot 1-2" style="width: 90%; border: 1px solid lightgray; margin: 15px 0 30px 0;"/>
+  <br/><br/><br/><br/>
   
 1. Add a tag with "project" as the key and "AWS-CodeGreen-Hackathon" as the value, and click "Next".
 
   <img src="images/image1-3.png" alt="Screenshot 1-3" style="width: 90%; border: 1px solid lightgray; margin: 15px 0 30px 0;"/>
+  <br/><br/>
 
 1. You don’t need this bucket to be publicly available, so accept the default ("Block _all_ public access") and click "Next".
 
   <img src="images/image1-4.png" alt="Screenshot 1-4" style="width: 90%; border: 1px solid lightgray; margin: 15px 0 30px 0;"/>
+  <br/><br/>
 
 1. Click "Create bucket".
 1. Now you will see your bucket on the Amazon S3 dashboard, under Buckets.
